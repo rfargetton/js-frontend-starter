@@ -1,7 +1,7 @@
 {
   "name": "js-frontend-starter",
   "version": "1.0.0",
-  "description": "A simple JavaScript frontend project starter based on Robin Wieruch's tutuorial : How to set up a modern JavaScript project",
+  "description": "A simple JavaScript frontend project starter",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
