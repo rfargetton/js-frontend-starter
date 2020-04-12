@@ -1,0 +1,30 @@
+{
+  "name": "js-frontend-starter",
+  "version": "1.0.0",
+  "description": "A simple JavaScript frontend project starter based on Robin Wieruch's tutuorial : How to set up a modern JavaScript project",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack.config.js --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rfargetton/js-frontend-starter.git" 
+  },
+  "keywords": [],
+  "author": "Romaric Fargetton",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.1.0",
+    "eslint-loader": "^4.0.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "dependencies": {
+    "eslint": "^6.8.0"
+  }
+}
