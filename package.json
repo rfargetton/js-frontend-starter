@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rfargetton/js-frontend-starter.git" 
+    "url": "https://github.com/rfargetton/js-frontend-starter.git"
   },
   "keywords": [],
   "author": "Romaric Fargetton",
@@ -23,7 +23,7 @@
     "eslint-loader": "^4.0.0",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.3"
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
     "eslint": "^6.8.0"
